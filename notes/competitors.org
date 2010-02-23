@@ -1,0 +1,23 @@
+| ! | Company                            | Proposed Market                                             | Status           | Website                  |
+|   | Algenol Biofuels                   | Ethanol production, CO2 sequestration                       | Pilot phase      | www.algenolbiofuels.com  |
+|   | Aquaflow Bionomic Corporation      | Wastewater treatment, Biomass production                    | Pilot phase      | www.aquaflowgroup.com    |
+|   | Aquatic Energy                     | Biomass production, CO2 sequestration                       | Pilot phase      | www.aquaticenergy.com    |
+|   | Aurora Biofuels                    | Biodiesel production                                        | Pilot phase      | www.aurorabiofuels.com   |
+|   | Bionavitas                         | Biodiesel production, CO2 sequestration                     | Lab phase        | www.bionavitas.com       |
+|   | Blue Marble Energy                 | Wastewater treatment, Biomass/natural gas production        | Pilot phase      | www.bluemarble energy    |
+|   | Bodega Algae                       | Wastewater treatment, Biomass production, CO2 sequestration | Lab phase        | www.bodegaalgae.com      |
+|   | Carbon Capture Corporation         | Biomass production, CO2 sequestration                       | Pilot phase      | www.carbcc.com           |
+|   | Cellana                            | Biomass production, Biofuel processing                      | Pilot phase      | www.cellana.com          |
+|   | GreenFuel Technologies Corporation | Biodiesel/ethanol production, CO2 sequestration             | \textit{Defunct} | www.greenfuelsonline.com |
+|   | INFINIFUEL Biodiesel               | Biodiesel production                                        | Lab phase        | www.infinifuel.com       |
+|   | Inventure Chemical Technology      | Biodiesel/ethanol production                                | Pilot phase      | www.inventurechem.com    |
+|   | Kent BioEnergy Corporation         | Wastewater treatment, Biomass production, CO2 sequestration | Pilot phase      | www.kentbioenergy.com    |
+|   | LiveFuels                          | Biocrude production                                         | Lab phase        | www.livefuels.com        |
+|   | OriginOil Incorporated             | Biomass production, Biomass processing                      | Commercial phase | www.originoil.com        |
+|   | PetroAlgae                         | Carbon sequestration                                        | Pilot phase      | www.petroalgae.com       |
+|   | PetroSun Incorporated              | Biodiesel production                                        | Pilot phase      | www.petrosuninc.com      |
+|   | Sapphire Energy                    | Biocrude production                                         | Pilot phase      | www.sapphireenergy.com   |
+|   | Seambiotic                         | Biomass production, CO2 sequestration                       | Pilot phase      | www.seambiotic.com       |
+|   | Solena Group                       | Syngas production                                           | Pilot phase      | www.solenagroup.com      |
+|   | Solix Biofuels                     | Biodiesel production, CO2 sequestration                     | Pilot phase      | www.solixbiofuels.com    |
+|   | XL Renewables                      | Biomass production, Wastewater treatment, CO2 sequestration | Pilot phase      | www.xldairygroup.com     |
