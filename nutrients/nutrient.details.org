@@ -17,7 +17,7 @@ Check
 * Nutrients
 ** Basic Numbers
    One-time System Fill: ??? liters
-   System Flow Rate: (20000000, 84368421) L/day
+   System Flow Rate: (57000, 84368421) L/day
 ** Bristols Solution
    /Bristols/
    | ! |  ml | Stock  Solution | Stock conc. (g/400ml H2O) |
