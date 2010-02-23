@@ -1,0 +1,53 @@
+\ProvidesPackage{mysty}
+\usepackage{graphicx}
+\usepackage{fancyhdr}
+\usepackage{booktabs}
+\usepackage{natbib}
+\usepackage{rotating}
+\usepackage[left=1in,top=2.2cm,bottom=2cm]{geometry}
+\usepackage{multicol}
+\usepackage{longtable}
+\usepackage{verbatim} 
+\usepackage{tabularx}
+
+\setcitestyle{super,open=,close=}
+
+\setlength{\headheight}{15.2pt}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot[R]{\thepage}
+
+\newcommand{\co}{\textsc{co}$_2$}
+\newcommand{\CCS}{\textsc{ccs}}
+\newcommand{\MMT}{\textsc{mmt}}
+
+\newcommand{\maketitlepage}{
+  \frenchspacing
+  \setlength{\parskip}{\baselineskip}
+  \setlength{\parindent}{0in}
+
+  \begin{titlepage}
+
+    \begin{center}
+      
+      \ \\[.5in]
+      
+      \includegraphics[width=\linewidth]{img/masthead.png}
+      
+      \vfill
+      
+      Abrahamson, Joseph $\thinspace\cdot\thinspace$
+      Boyd, Will $\thinspace\cdot\thinspace$
+      Challa, Sanjay $\thinspace\cdot\thinspace$
+      Masuyama, Kento $\thinspace\cdot\thinspace$
+      Punnoose, Andrew
+      
+      \vfill
+      
+      {\large \textit{Last revised}: \\
+        \today}
+      
+      
+    \end{center}
+  \end{titlepage}
+}
