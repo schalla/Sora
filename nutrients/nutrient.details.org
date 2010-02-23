@@ -1,0 +1,148 @@
+Check
+
+* Federal Land Subsidies
+
+* Plastic Prices
+** PE
+   Asian linear low density polyethylene (LLDPE) and high density
+   polyethylene (HDPE) film/HDPE blow grades prices fell by 0.6-4.3%
+   on average from around /$1,160-1,320/tonne/ CFR (cost and freight)
+   China/SE Asia (southeast Asia) in mid-August to around
+   $1,120-1,320/tonne CFR China/SE Asia in mid-November.
+*** Translated
+    1104 U.S. Dollars / m3
+
+* Forced Convection Tower
+  
+* Nutrients
+** Basic Numbers
+   One-time System Fill: ??? liters
+   System Flow Rate: (20000000, 84368421) L/day
+** Bristols Solution
+   /Bristols/
+   | ! |  ml | Stock  Solution | Stock conc. (g/400ml H2O) |
+   |   |  10 | NaNO3           |                      10.0 |
+   |   |  10 | CaCl2*2H2O      |                       1.0 |
+   |   |  10 | MgSO4*7H2O      |                       3.0 |
+   |   |  10 | K2HPO4          |                       3.0 |
+   |   |  10 | KH2PO4          |                       7.0 |
+   |   |  10 | NaCl            |                       1.0 |
+   |   | 940 | H2O             |                         0 |
+** BG-11 Solution
+   Prices from alfa.com
+   |   | Need? | Purpose | Component                 |    Final (M) |      MW | Total Amount (g/day) |    Price Per ($/g) |   Total $ |
+   |---+-------+---------+---------------------------+--------------+---------+----------------------+--------------------+-----------|
+   | ! |       |         | Fe Citrate solution       |              |         |                      |                    |           |
+   | # | ?     |         | Citric acid (monohydrate) |    0.0000312 |  210.14 |            131127.36 |              0.256 | 33568.604 |
+   | # | ?     |         | NaNO3                     |       0.0176 | 84.9947 |            29918134. |             0.0177 | 529550.97 |
+   | # | ?     |         | K2HPO4                    |     0.000224 |   174.2 |              780416. |              0.756 | 589994.50 |
+   | # | ?     |         | MgSO4 * 7H2O              |     0.000304 |  246.47 |            1498537.6 |             0.4545 | 681085.34 |
+   | # | ?     |         | CaCl2 * 2H2O              |     0.000184 | 147.014 |            541011.52 |             0.0445 | 24075.013 |
+   | # | ?     |         | Na2CO3 (monohydrate)      |     0.000189 |  124.00 |              468720. |             0.0102 |  4780.944 |
+   | # | ?     |         | Na2SiO3 * 5H2O            |     0.000204 |  212.14 |             865531.2 |            0.00192 | 1661.8199 |
+   | ! |       |         | Trace Metals Soln         |              |         |                      |                    |           |
+   | # | ?     |         | MgNa2EDTA * 3H2O          |   0.00000226 |  372.24 |            16825.248 |              0.477 | 8025.6433 |
+   | # | ?     |         | H3BO3                     |    0.0000463 |   61.83 |             57254.58 |             0.0126 | 721.40771 |
+   | # | ?     |         | MgSO4 * 7H2O              |    0.0000101 |  246.47 |             49786.94 |             0.0161 | 801.56973 |
+   | # | ?     |         | ZnSO4 * 7H2O              |  0.000000765 |  287.53 |             4399.209 |              0.844 | 3712.9324 |
+   | # | ?     |         | CuSO4 * 5H2O              |   0.00000316 |   2.284 |             144.3488 |              0.369 | 53.264707 |
+   | # | ?     |         | Na2MoO4 * 2H2O            | 0.0000000868 |  241.95 |             420.0252 |              1.726 | 724.96350 |
+   | # | ?     |         | Co(NO3)2 * 6H2O           |  0.000000170 |  291.03 |              989.502 |             0.1214 | 120.12554 |
+   |---+-------+---------+---------------------------+--------------+---------+----------------------+--------------------+-----------|
+   | # |       |         |                           |              |         |            34333298. |      Total (Daily) | 1878877.1 |
+   | # |       |         |                           |              |         |                    0 | (Yearly, millions) | 686.16592 |
+#+TBLFM: $7=$5*$6*20000000::$9=$7*$8::@18$7=vsum(@2$7..@17$7)::@18$9=vsum(@2$9..@17$9)::@19$9=@18$9*365.2/1000000
+
+** Paper's Soln (/Reduction of CO2 by a high-density culture of Chlorella sp. in a semicontinuous photobioreactor/)
+   29.23 g NaCl, 1.105 g KCl, 11.09 g MgSO4 Æ 7H2O, 1.21 g Tris-base,
+   1.83 g CaCl2 Æ 2H2O, 0.25 g NaHCO3, and 3.0 mL of trace metal
+   solution (Guillard, 1975). The trace metal solution (per liter)
+   contains 281.3 mg NaNO3, 21.2 mg NaH2PO4 Æ H2O, 16.35 mg Na2 Æ EDTA,
+   11.8 mg FeCl3 Æ 6H2O, 675 lg MnCl2 Æ 4H2O, 37.5 lg CoCl2 Æ 6H2O,
+   37.5 lg CuSO4 Æ 5H2O, 82.5 lg ZnSO4 Æ 7H2O, 22.5 lg Na2MoO4, 0.375
+   mg vitamin B1, 0.188 lg vitamin B12 and 0.188 lg biotin.
+
+
+
+* Data
+| ! | Name             | Full Name                                                                          | ACS | Purity |  Price | Size (g) |
+|   |                  |                                                                                    |     |        |        |          |
+|---+------------------+------------------------------------------------------------------------------------+-----+--------+--------+----------|
+|   | Citric Acid      | Citric acid monohydrate, ACS, 99.0-102.0%                                          | T   |     99 |  17.40 |      100 |
+|   | Citric Acid      | Citric acid monohydrate, ACS, 99.0-102.0%                                          | T   |     99 |  30.50 |      500 |
+|   | Citric Acid      | Citric acid monohydrate, ACS, 99.0-102.0%                                          | T   |     99 |  76.60 |     2000 |
+|   | Citric Acid      | Citric acid monohydrate, 99.5+%                                                    | F   |   99.5 |  19.80 |      100 |
+|   | Citric Acid      | Citric acid monohydrate, 99.5+%                                                    | F   |   99.5 |  47.30 |      500 |
+|   | Citric Acid      | Citric acid monohydrate, 99.5+%                                                    | F   |   99.5 |  74.80 |     1000 |
+|   | Citric Acid      | Citric acid, 99+%                                                                  | F   |   99.0 |  15.60 |      250 |
+|   | Citric Acid      | Citric acid, 99+%                                                                  | F   |   99.0 |  34.30 |     1000 |
+|   | Citric Acid      | Citric acid, 99+%                                                                  | F   |   99.0 | 128.00 |     5000 |
+|   | NaNO3            | Sodium nitrate, 98+%                                                               | F   |   98.0 |  22.10 |      500 |
+|   | NaNO3            | Sodium nitrate, 98+%                                                               | F   |   98.0 |  54.40 |     2500 |
+|   | NaNO3            | Sodium nitrate, 98+%                                                               | F   |   98.0 | 177.00 |    10000 |
+|   | NaNO3            | Sodium nitrate, ACS, 99.0% min                                                     | T   |   99.0 |  15.20 |       25 |
+|   | NaNO3            | Sodium nitrate, ACS, 99.0% min                                                     | T   |   99.0 |     29 |      250 |
+|   | NaNO3            | Sodium nitrate, ACS, 99.0% min                                                     | T   |   99.0 |  54.40 |     1000 |
+|   | NaNO3            | Sodium nitrate, ACS, 99.0% min                                                     | T   |   99.0 | 183.00 |     5000 |
+|   | K2HPO4           | Potassium hydrogen phosphate, ACS, 98.0% min                                       | T   |   98.0 |  40.40 |      250 |
+|   | K2HPO4           | Potassium hydrogen phosphate, ACS, 98.0% min                                       | T   |   98.0 | 117.00 |     1000 |
+|   | K2HPO4           | Potassium hydrogen phosphate, ACS, 98.0% min                                       | T   |   98.0 | 287.00 |     5000 |
+|   | K2HPO4           | Potassium hydrogen phosphate, anhydrous, 98+%                                      | F   |   98.0 |     27 |      250 |
+|   | K2HPO4           | Potassium hydrogen phosphate, anhydrous, 98+%                                      | F   |   98.0 |  61.20 |     1000 |
+|   | K2HPO4           | Potassium hydrogen phosphate, anhydrous, 98+%                                      | F   |   98.0 |    234 |     5000 |
+|   | MgSO4*7H2O       | Magnesium sulfate heptahydrate, 99+%                                               | F   |   99.0 |     25 |     1000 |
+|   | MgSO4*7H2O       | Magnesium sulfate heptahydrate, 99+%                                               | F   |   99.0 |   80.6 |     5000 |
+|   | MgSO4*7H2O       | Magnesium sulfate heptahydrate, ACS, 98.0-102.0%                                   | T   |   98.0 |   22.7 |      100 |
+|   | MgSO4*7H2O       | Magnesium sulfate heptahydrate, ACS, 98.0-102.0%                                   | T   |   98.0 |   39.6 |      500 |
+|   | MgSO4*7H2O       | Magnesium sulfate heptahydrate, ACS, 98.0-102.0%                                   | T   |   98.0 |  90.90 |     2000 |
+|   | CaCl2*2H2O       | Calcium chloride dihydrate, 99% min                                                | F   |   99.0 |  49.30 |      500 |
+|   | CaCl2*2H2O       | Calcium chloride dihydrate, 99% min                                                | F   |   99.0 |  91.80 |     2000 |
+|   | CaCl2*2H2O       | Calcium chloride dihydrate, ACS, 99.0-105.0%                                       | T   |   99.0 |     39 |      500 |
+|   | CaCl2*2H2O       | Calcium chloride dihydrate, ACS, 99.0-105.0%                                       | T   |   99.0 |     89 |     2000 |
+|   | Na2CO3           | Sodium carbonate monohydrate, 85% min                                              | F   |   85.0 |   28.8 |     1000 |
+|   | Na2CO3           | Sodium carbonate monohydrate, 85% min                                              | F   |   85.0 |   50.8 |     5000 |
+|   | Na2CO3           | Sodium carbonate monohydrate, ACS, 99.5% min                                       | T   |   99.5 |   20.6 |      100 |
+|   | Na2CO3           | Sodium carbonate monohydrate, ACS, 99.5% min                                       | T   |   99.5 |   35.8 |      500 |
+|   | Na2CO3           | Sodium carbonate monohydrate, ACS, 99.5% min                                       | T   |   99.5 |     78 |     2000 |
+|   | Na2CO3           | Sodium carbonate, 98%                                                              | F   |   98.0 |   23.1 |      500 |
+|   | Na2CO3           | Sodium carbonate, 98%                                                              | F   |   98.0 |   41.5 |     2500 |
+|   | Na2CO3           | Sodium carbonate, 98%                                                              | F   |   98.0 |   61.8 |     5000 |
+|   | Na2SiO3*5H2O     | Sodium metasilicate pentahydrate, tech.                                            | F   |    --- |   28.2 |     1000 |
+|   | Na2SiO3*5H2O     | Sodium metasilicate pentahydrate, tech.                                            | F   |    --- |   96.2 |     5000 |
+|   | Na2SiO3*5H2O     | Sodium orthosilicate, (mixture of NaOH and Na2SiO3 yielding ≈ Na4SiO4 in solution) | F   |    --- |  32.20 |     1000 |
+|   | Na2SiO3*5H2O     | Sodium orthosilicate, (mixture of NaOH and Na2SiO3 yielding ≈ Na4SiO4 in solution) | F   |    --- | 132.00 |     5000 |
+|   | MgNa2EDTA * 3H2O | EDTA disodium magnesium salt hydrate                                               | F   |    --- |   19.4 |       25 |
+|   | MgNa2EDTA * 3H2O | EDTA disodium magnesium salt hydrate                                               | F   |    --- |   47.7 |      100 |
+|   | H2BO3            | Boric acid, 98%                                                                    | F   |   98.0 |     25 |     1000 |
+|   | H2BO3            | Boric acid, 98%                                                                    | F   |   98.0 |     56 |     5000 |
+|   | H2BO3            | Boric acid, 99+%                                                                   | F   |   99.0 |     15 |      500 |
+|   | H2BO3            | Boric acid, 99+%                                                                   | F   |   99.0 |     35 |     2500 |
+|   | H2BO3            | Boric acid, 99+%                                                                   | F   |   99.0 |    126 |    10000 |
+|   | H2BO3            | Boric acid, ACS, 99.5% min                                                         | T   |   99.5 |   38.5 |     1000 |
+|   | H2BO3            | Boric acid, ACS, 99.5% min                                                         | T   |   99.5 |   87.9 |     5000 |
+|   | H2BO3            | Boric acid, 99.99% (metals basis)                                                  | F   |  99.99 |   35.5 |      500 |
+|   | H2BO3            | Boric acid, 99.99% (metals basis)                                                  | F   |  99.99 |   63.8 |    20000 |
+|   | ZnSO4 * 7H2O     | Zinc sulfate heptahydrate, 98+%                                                    | F   |   98.0 |   21.5 |      500 |
+|   | ZnSO4 * 7H2O     | Zinc sulfate heptahydrate, 98+%                                                    | F   |   98.0 |   75.3 |     2500 |
+|   | ZnSO4 * 7H2O     | Zinc sulfate heptahydrate, ACS, 99.0-103.0%                                        | T   |   99.0 |   20.5 |      100 |
+|   | ZnSO4 * 7H2O     | Zinc sulfate heptahydrate, ACS, 99.0-103.0%                                        | T   |   99.0 |   42.2 |      500 |
+|   | ZnSO4 * 7H2O     | Zinc sulfate heptahydrate, ACS, 99.0-103.0%                                        | T   |   99.0 |    137 |     2500 |
+|   | CuSO4 * 5H2O     | Copper(II) sulfate pentahydrate, ACS, 98.0-102.0%                                  | T   |   98.0 |   41.7 |      500 |
+|   | CuSO4 * 5H2O     | Copper(II) sulfate pentahydrate, ACS, 98.0-102.0%                                  | T   |   98.0 |   98.7 |     2000 |
+|   | CuSO4 * 5H2O     | Copper(II) sulfate pentahydrate, 99%                                               | F   |   99.0 |   36.9 |     1000 |
+|   | CuSO4 * 5H2O     | Copper(II) sulfate pentahydrate, 99%                                               | F   |   99.0 |    124 |     5000 |
+|   | CuSO4 * 5H2O     | Copper(II) sulfate pentahydrate, 99%                                               | F   |   99.0 |    488 |    25000 |
+|   | Na2MoO4 * 2H2O   | Sodium molybdenum oxide dihydrate, 98%                                             | F   |   98.0 |   27.3 |      100 |
+|   | Na2MoO4 * 2H2O   | Sodium molybdenum oxide dihydrate, 98%                                             | F   |   98.0 |   86.3 |      500 |
+|   | Na2MoO4 * 2H2O   | Sodium molybdenum oxide dihydrate, 98%                                             | F   |   98.0 |    377 |     2500 |
+|   | Na2MoO4 * 2H2O   | Sodium molybdenum oxide dihydrate, ACS, 99.5-103.0%                                | T   |   99.5 |  39.30 |      100 |
+|   | Na2MoO4 * 2H2O   | Sodium molybdenum oxide dihydrate, ACS, 99.5-103.0%                                | T   |   99.5 | 133.00 |      500 |
+|   | Co(NO3)2 * 6H2O  | Cobalt(II) nitrate hexahydrate, 97.7% min                                          | F   |   97.7 |   25.7 |       25 |
+|   | Co(NO3)2 * 6H2O  | Cobalt(II) nitrate hexahydrate, 97.7% min                                          | F   |   97.7 |     60 |      250 |
+|   | Co(NO3)2 * 6H2O  | Cobalt(II) nitrate hexahydrate, 97.7% min                                          | F   |   97.7 |    147 |     1000 |
+|   | Co(NO3)2 * 6H2O  | Cobalt(II) nitrate hexahydrate, 97.7% min                                          | F   |   97.7 |    607 |     5000 |
+|   | Co(NO3)2 * 6H2O  | Cobalt(II) nitrate hexahydrate, ACS, 98.0-102.0%                                   | T   |   98.0 |   37.5 |      100 |
+|   | Co(NO3)2 * 6H2O  | Cobalt(II) nitrate hexahydrate, ACS, 98.0-102.0%                                   | T   |   98.0 |    138 |      500 |
+|   | Co(NO3)2 * 6H2O  | Cobalt(II) nitrate hexahydrate, ACS, 98.0-102.0%                                   | T   |   98.0 |    612 |     2500 |
+
+

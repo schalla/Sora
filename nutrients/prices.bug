@@ -1,0 +1,80 @@
+data {
+    for (i in 1:N) {
+        Pa[i] <- price[i]/amt[i]
+    }
+}
+# model {
+#     # Hyperparameters
+#     A.global ~ dnorm(0.33, 1)
+#     theta.global ~ dnorm(-0.5, 1)
+#     sigma.A ~ dexp(1)
+#     sigma.theta ~ dexp(0.02)
+#     tau.A <- 1/sqrt(sigma.A)
+#     tau.theta <- 1/sqrt(sigma.theta)
+
+#     # Type-level parameters
+#     for (t in 1:T) {
+#         A[t] ~ dnorm(A.global, tau.A)
+#         theta[t] ~ dnorm(theta.global, tau.theta)
+#     }
+
+#     # Model
+#     for (i in 1:N) {
+#         Pa[i] ~ dnorm(exp(A[type[i]]) * amt[i]^(theta[type[i]]), 0.001)
+#     }
+# }
+model {
+    # Population parameters: lmer gives us estimates
+    # fit <- lmer(log(per) ~ log(amt) + (1 + amt | type), d)
+    A.global ~ dnorm(0.5, 1/10)
+    m.global ~ dnorm(-0.5, 1/10) T(,1)
+    sigma.A ~ dexp(3)
+    sigma.m ~ dexp(3)
+    tau.A <- 1/sqrt(sigma.A)
+    tau.m <- 1/sqrt(sigma.m)
+
+    m.sd ~ dexp(0.01)
+    m.tau <- 1/sqrt(m.sd)
+    
+    # 'Type' level parameters
+    # These are allowed to move quite a bit (cauchy dist.)
+    for (t in 1:T) {
+        A[t] ~ dt(A.global, tau.A, 2)
+        m[t] ~ dt(m.global, tau.m, 2)
+    }
+
+    # 'Name' level noise in slope and intercept
+    A.name.global ~ dnorm(0, 1)
+    sigma.A.name ~ dexp(3)
+    tau.A.name <- 1/sqrt(sigma.A.name)
+    m.name.global ~ dnorm(0, 1)
+    sigma.m.name ~ dexp(3)
+    tau.m.name <- 1/sqrt(sigma.m.name)
+    for (n in 1:L) {
+        A.name[n] ~ dnorm(A.name.global, tau.A.name)
+        m.name[n] ~ dnorm(m.name.global, tau.m.name)
+    }
+
+    # 'ACS' level shift
+    # TODO: make both m and A versions!
+    for (i in 1:2) {
+        beta.spread[i] ~ dexp(0.1)
+        beta.spread.tau[i] <- 1/sqrt(beta.spread[i])
+        beta[i] ~ dnorm(0, beta.spread.tau[i])
+    }
+
+    # Obervables
+    for (i in 1:N) {
+        base[i] <- A[type[i]] + A.name[name[i]] + beta[1]*acs[i]
+        ex[i] <- m[type[i]] + m.name[name[i]] + beta[2]*acs[i]
+        Pa[i] ~ dnorm(exp(base[i]) * amt[i]^(ex[i]), m.tau)
+    }
+}
+
+#Local Variables:
+#ess-jags-chains:1
+#ess-jags-monitor:("")
+#ess-jags-thin:1
+#ess-jags-burnin:10000
+#ess-jags-update:10000
+#End:

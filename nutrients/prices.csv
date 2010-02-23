@@ -1,0 +1,77 @@
+"","type","name","acs","purity","price","amt"
+"1","Citric Acid","Citric acid monohydrate, ACS, 99.0-102.0%",TRUE,"99",17.4,100
+"2","Citric Acid","Citric acid monohydrate, ACS, 99.0-102.0%",TRUE,"99",30.5,500
+"3","Citric Acid","Citric acid monohydrate, ACS, 99.0-102.0%",TRUE,"99",76.6,2000
+"4","Citric Acid","Citric acid monohydrate, 99.5+%",FALSE,"99.5",19.8,100
+"5","Citric Acid","Citric acid monohydrate, 99.5+%",FALSE,"99.5",47.3,500
+"6","Citric Acid","Citric acid monohydrate, 99.5+%",FALSE,"99.5",74.8,1000
+"7","Citric Acid","Citric acid, 99+%",FALSE,"99.0",15.6,250
+"8","Citric Acid","Citric acid, 99+%",FALSE,"99.0",34.3,1000
+"9","Citric Acid","Citric acid, 99+%",FALSE,"99.0",128,5000
+"10","NaNO3","Sodium nitrate, 98+%",FALSE,"98.0",22.1,500
+"11","NaNO3","Sodium nitrate, 98+%",FALSE,"98.0",54.4,2500
+"12","NaNO3","Sodium nitrate, 98+%",FALSE,"98.0",177,10000
+"13","NaNO3","Sodium nitrate, ACS, 99.0% min",TRUE,"99.0",15.2,25
+"14","NaNO3","Sodium nitrate, ACS, 99.0% min",TRUE,"99.0",29,250
+"15","NaNO3","Sodium nitrate, ACS, 99.0% min",TRUE,"99.0",54.4,1000
+"16","NaNO3","Sodium nitrate, ACS, 99.0% min",TRUE,"99.0",183,5000
+"17","K2HPO4","Potassium hydrogen phosphate, ACS, 98.0% min",TRUE,"98.0",40.4,250
+"18","K2HPO4","Potassium hydrogen phosphate, ACS, 98.0% min",TRUE,"98.0",117,1000
+"19","K2HPO4","Potassium hydrogen phosphate, ACS, 98.0% min",TRUE,"98.0",287,5000
+"20","K2HPO4","Potassium hydrogen phosphate, anhydrous, 98+%",FALSE,"98.0",27,250
+"21","K2HPO4","Potassium hydrogen phosphate, anhydrous, 98+%",FALSE,"98.0",61.2,1000
+"22","K2HPO4","Potassium hydrogen phosphate, anhydrous, 98+%",FALSE,"98.0",234,5000
+"23","MgSO4*7H2O","Magnesium sulfate heptahydrate, 99+%",FALSE,"99.0",25,1000
+"24","MgSO4*7H2O","Magnesium sulfate heptahydrate, 99+%",FALSE,"99.0",80.6,5000
+"25","MgSO4*7H2O","Magnesium sulfate heptahydrate, ACS, 98.0-102.0%",TRUE,"98.0",22.7,100
+"26","MgSO4*7H2O","Magnesium sulfate heptahydrate, ACS, 98.0-102.0%",TRUE,"98.0",39.6,500
+"27","MgSO4*7H2O","Magnesium sulfate heptahydrate, ACS, 98.0-102.0%",TRUE,"98.0",90.9,2000
+"28","CaCl2*2H2O","Calcium chloride dihydrate, 99% min",FALSE,"99.0",49.3,500
+"29","CaCl2*2H2O","Calcium chloride dihydrate, 99% min",FALSE,"99.0",91.8,2000
+"30","CaCl2*2H2O","Calcium chloride dihydrate, ACS, 99.0-105.0%",TRUE,"99.0",39,500
+"31","CaCl2*2H2O","Calcium chloride dihydrate, ACS, 99.0-105.0%",TRUE,"99.0",89,2000
+"32","Na2CO3","Sodium carbonate monohydrate, 85% min",FALSE,"85.0",28.8,1000
+"33","Na2CO3","Sodium carbonate monohydrate, 85% min",FALSE,"85.0",50.8,5000
+"34","Na2CO3","Sodium carbonate monohydrate, ACS, 99.5% min",TRUE,"99.5",20.6,100
+"35","Na2CO3","Sodium carbonate monohydrate, ACS, 99.5% min",TRUE,"99.5",35.8,500
+"36","Na2CO3","Sodium carbonate monohydrate, ACS, 99.5% min",TRUE,"99.5",78,2000
+"37","Na2CO3","Sodium carbonate, 98%",FALSE,"98.0",23.1,500
+"38","Na2CO3","Sodium carbonate, 98%",FALSE,"98.0",41.5,2500
+"39","Na2CO3","Sodium carbonate, 98%",FALSE,"98.0",61.8,5000
+"40","Na2SiO3*5H2O","Sodium metasilicate pentahydrate, tech.",FALSE,"0",28.2,1000
+"41","Na2SiO3*5H2O","Sodium metasilicate pentahydrate, tech.",FALSE,"0",96.2,5000
+"42","Na2SiO3*5H2O","Sodium orthosilicate, (mixture of NaOH and Na2SiO3 yielding ≈ Na4SiO4 in solution)",FALSE,"0",32.2,1000
+"43","Na2SiO3*5H2O","Sodium orthosilicate, (mixture of NaOH and Na2SiO3 yielding ≈ Na4SiO4 in solution)",FALSE,"0",132,5000
+"44","MgNa2EDTA*3H2O","EDTA disodium magnesium salt hydrate",FALSE,"0",19.4,25
+"45","MgNa2EDTA*3H2O","EDTA disodium magnesium salt hydrate",FALSE,"0",47.7,100
+"46","H2BO3","Boric acid, 98%",FALSE,"98.0",25,1000
+"47","H2BO3","Boric acid, 98%",FALSE,"98.0",56,5000
+"48","H2BO3","Boric acid, 99+%",FALSE,"99.0",15,500
+"49","H2BO3","Boric acid, 99+%",FALSE,"99.0",35,2500
+"50","H2BO3","Boric acid, 99+%",FALSE,"99.0",126,10000
+"51","H2BO3","Boric acid, ACS, 99.5% min",TRUE,"99.5",38.5,1000
+"52","H2BO3","Boric acid, ACS, 99.5% min",TRUE,"99.5",87.9,5000
+"53","H2BO3","Boric acid, 99.99% (metals basis)",FALSE,"99.99",35.5,500
+"54","H2BO3","Boric acid, 99.99% (metals basis)",FALSE,"99.99",63.8,20000
+"55","ZnSO4*7H2O","Zinc sulfate heptahydrate, 98+%",FALSE,"98.0",21.5,500
+"56","ZnSO4*7H2O","Zinc sulfate heptahydrate, 98+%",FALSE,"98.0",75.3,2500
+"57","ZnSO4*7H2O","Zinc sulfate heptahydrate, ACS, 99.0-103.0%",TRUE,"99.0",20.5,100
+"58","ZnSO4*7H2O","Zinc sulfate heptahydrate, ACS, 99.0-103.0%",TRUE,"99.0",42.2,500
+"59","ZnSO4*7H2O","Zinc sulfate heptahydrate, ACS, 99.0-103.0%",TRUE,"99.0",137,2500
+"60","CuSO4*5H2O","Copper(II) sulfate pentahydrate, ACS, 98.0-102.0%",TRUE,"98.0",41.7,500
+"61","CuSO4*5H2O","Copper(II) sulfate pentahydrate, ACS, 98.0-102.0%",TRUE,"98.0",98.7,2000
+"62","CuSO4*5H2O","Copper(II) sulfate pentahydrate, 99%",FALSE,"99.0",36.9,1000
+"63","CuSO4*5H2O","Copper(II) sulfate pentahydrate, 99%",FALSE,"99.0",124,5000
+"64","CuSO4*5H2O","Copper(II) sulfate pentahydrate, 99%",FALSE,"99.0",488,25000
+"65","Na2MoO4*2H2O","Sodium molybdenum oxide dihydrate, 98%",FALSE,"98.0",27.3,100
+"66","Na2MoO4*2H2O","Sodium molybdenum oxide dihydrate, 98%",FALSE,"98.0",86.3,500
+"67","Na2MoO4*2H2O","Sodium molybdenum oxide dihydrate, 98%",FALSE,"98.0",377,2500
+"68","Na2MoO4*2H2O","Sodium molybdenum oxide dihydrate, ACS, 99.5-103.0%",TRUE,"99.5",39.3,100
+"69","Na2MoO4*2H2O","Sodium molybdenum oxide dihydrate, ACS, 99.5-103.0%",TRUE,"99.5",133,500
+"70","Co(NO3)2*6H2O","Cobalt(II) nitrate hexahydrate, 97.7% min",FALSE,"97.7",25.7,25
+"71","Co(NO3)2*6H2O","Cobalt(II) nitrate hexahydrate, 97.7% min",FALSE,"97.7",60,250
+"72","Co(NO3)2*6H2O","Cobalt(II) nitrate hexahydrate, 97.7% min",FALSE,"97.7",147,1000
+"73","Co(NO3)2*6H2O","Cobalt(II) nitrate hexahydrate, 97.7% min",FALSE,"97.7",607,5000
+"74","Co(NO3)2*6H2O","Cobalt(II) nitrate hexahydrate, ACS, 98.0-102.0%",TRUE,"98.0",37.5,100
+"75","Co(NO3)2*6H2O","Cobalt(II) nitrate hexahydrate, ACS, 98.0-102.0%",TRUE,"98.0",138,500
+"76","Co(NO3)2*6H2O","Cobalt(II) nitrate hexahydrate, ACS, 98.0-102.0%",TRUE,"98.0",612,2500
