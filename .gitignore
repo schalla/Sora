@@ -7,6 +7,7 @@
 */auto/*
 auto/*
 *.pdf
+!**/img/**.pdf
 *.bbl
 *.blg
 *.dvi
